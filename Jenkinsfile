@@ -31,6 +31,15 @@ pipeline {
 				echo "EHR Application Test Sucessful"
             }
     }
+        stage("SonarQube Analysis") { 
+            steps {
+                script    
+                    withSonarQubeEnv(credentialsId: 'sonarqube-jenkins-token') {
+                        sh "mvn sonar:sonar"
+	                    echo "SonarQube Analysis Completed"
+
+                    }
+                }
     
     }
 
