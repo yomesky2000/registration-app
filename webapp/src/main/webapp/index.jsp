@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to Essence Healthcare, Inc Electronic Medical Records</h1>
-    <p>Please feel free to create an account.</p>
+    <p>Please feel free to create an account, Thank you</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
