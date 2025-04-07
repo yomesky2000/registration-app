@@ -34,5 +34,6 @@
    <h1> Thank you for using our Platform </h1>
    <h1> Wishing you an Amazing Thanksgiving </h1>
    <h1> Author: Honorable Ginger </h1>
+   <h1> Thank you Hon Ginger </h1>
   
 </form>
