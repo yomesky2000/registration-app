@@ -31,7 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you for using our Platform </h1>
-   <h1> Wishing you an Amazing Thanksgiving </h1>
-   <h1> Author: Honorable Ginger. 04/07/2025 </h1>
+   <h1> Thank you for using our EMR Platform. </h1>
+   <h1> We are committed to serving you better!!! </h1>
 </form>
