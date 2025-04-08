@@ -33,13 +33,5 @@
 
    <h1> Thank you for using our Platform </h1>
    <h1> Wishing you an Amazing Thanksgiving </h1>
-<<<<<<< HEAD
-   <h1> Author: Honorable Ginger </h1>
-   <h1> Thank you Hon Ginger </h1>
-=======
-   <h1> Author: Honorable Ginger, Thank you!!!! </h1>
-
-
->>>>>>> e3d9b03fe9c6278d3510cbff0490a50d850d4004
-  
+   <h1> Author: Honorable Ginger. 04/07/2025 </h1>
 </form>
