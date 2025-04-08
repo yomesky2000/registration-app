@@ -32,5 +32,5 @@
   </div>
 
    <h1> Thank you for using our EMR Platform. </h1>
-   <h1> We are committed to serving you better!!! </h1>
+   <h1> We are committed to always serving you better!!! </h1>
 </form>
