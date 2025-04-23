@@ -1,8 +1,5 @@
 # Use official Tomcat base image
+
 FROM tomcat:latest
-
-# Clean default Tomcat apps
-RUN rm -rf /usr/local/tomcat/webapps/*
-
-# Copy WAR file and rename to ROOT.war
-COPY webapp.war /usr/local/tomcat/webapps/ROOT.war
+RUN cp -R  /usr/local/tomcat/webapps.dist/*  /usr/local/tomcat/webapps
+COPY ./*.war /usr/local/tomcat/webapps
