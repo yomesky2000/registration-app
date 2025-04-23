@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Essence Healthcare, Inc Electronic Medical Records</h1>
+    <h1>Welcome to Pace Technologies, LLC</h1>
     <p>Please feel free to create an account</p>
     <p>Big Kundus for Persistent Engineer Ginger</p>
     <hr>
@@ -32,6 +32,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you for using our EMR Platform. </h1>
+   <h1> Thank you for using our Platform. </h1>
    <h1> We are committed to always serving you better!!! </h1>
 </form>
