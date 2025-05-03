@@ -34,4 +34,5 @@
 
    <h1> Thank you for using our Platform. </h1>
    <h1> We are committed to always serving you better!!! </h1>
+   <h1> Author: Pace Technologies, LLC </h1>
 </form>
