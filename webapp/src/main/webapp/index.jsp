@@ -33,5 +33,5 @@
   </div>
 
    <h1> Thank you for using our Platform. </h1>
-   <h1> We are committed to always serving you better!!! </h1>
+   <h1> We are committed to always serving you better!!! - 5/8/2025 </h1>
 </form>  
